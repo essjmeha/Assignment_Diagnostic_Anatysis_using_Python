@@ -22,3 +22,4 @@ I need to repeat this across the top five locations, and across NHS.
 I need to check the total number of appointments by service setting by location.  The busiest period was Nov 2021 with 30,405,070 and Oct 2021 with 30,303,834.  
 Creating a chart would allow me to clearly see a trend.  
 I need to look into total number of appointments by location (sum).  
+Amended missing value syntax to check all columns with one code.  Deleated unnecessary codes.  
