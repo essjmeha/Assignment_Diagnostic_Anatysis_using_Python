@@ -23,3 +23,11 @@ I need to check the total number of appointments by service setting by location.
 Creating a chart would allow me to clearly see a trend.  
 I need to look into total number of appointments by location (sum).  
 Amended missing value syntax to check all columns with one code.  Deleated unnecessary codes.  
+GP appointments accounted for most appointments.  It also had the biggest fluctuations in appointments.   
+Care related encounter accounted for most appointments within context tye.  
+General Consultation Routine is the most comment type of category.
+There is a clear trend throughout the week with number of appointments peaking on Mondays declining Tuesday to Friday, with a big drop on Saturdays and again on Sundays. 
+During the Summer month peaks and troughs remain steady and consistent.
+Autumn had a gradual increase in appointment when compared to the previous week, until the final week where appointments declined. Could this be do to School Oct half term holidays?
+You can see that the 1st of January was a bank holiday.  There was also fewer appointments on 2nd January.  Possibly due to staff being on holiday, or are people more likely to now show up for appointments during holiday periods? 
+Easter can also be easily identified during Spring (April).  Again the days surrounding the bank holiday show a comparably lower number of GP appointments. 
