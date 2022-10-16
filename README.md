@@ -31,3 +31,15 @@ During the Summer month peaks and troughs remain steady and consistent.
 Autumn had a gradual increase in appointment when compared to the previous week, until the final week where appointments declined. Could this be do to School Oct half term holidays?
 You can see that the 1st of January was a bank holiday.  There was also fewer appointments on 2nd January.  Possibly due to staff being on holiday, or are people more likely to now show up for appointments during holiday periods? 
 Easter can also be easily identified during Spring (April).  Again the days surrounding the bank holiday show a comparably lower number of GP appointments. 
+Tweets are an opportunity for the NHS to raise awareness about it services, engage with it service users and develop policy and procedures. 
+By being aware of the most trending hashtag e.g. #heathcare you increase the likelihood of people interacting with your contents.  
+Only 16 tweets (out of 1174) were retweeted at least 200 times.
+The proportion of tweeters favouriting a NHS related tweet is low.
+1027 (87%) had no response and only 1 was favourited 91 times (8%).
+61% of posts hashtags #Healthcare
+Further investigation is needed to establish if this also generated the most retweets and favourites.
+The initial barplot of words counts showing hashtags words clearly showed the disparity between #healthcare and the remaining words.
+Focus on words that appeared at least 20 times (which in this case is top 15 words).
+Due to the large variances in values annotating the bars make it easier to the stakeholder to see the frequency of the word.
+Rotation of the ticks to 70 degrees.
+Added clear headings. 
