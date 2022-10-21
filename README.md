@@ -43,3 +43,14 @@ Focus on words that appeared at least 20 times (which in this case is top 15 wor
 Due to the large variances in values annotating the bars make it easier to the stakeholder to see the frequency of the word.
 Rotation of the ticks to 70 degrees.
 Added clear headings. 
+During the busiest month (Oct) there was an increase in face to face appointments and a decrease in phone appointments. 
+Home visits and video/online remained consistence thoughtout the year. 
+The total number of people attending appointments followed the same trends at the total number of appointments.  
+But, there is only a slight increase in people not attending their appointments during the peaks.
+Paitents are much more likely to miss a face to face appointment than a phone appointment.
+Video and home appointments were most likely to be kept.  
+Most appointments occurred the same day they are booked.
+Appointments with longer wait times are more likely to have no shows. 
+Despite GPs being the biggest service provider,  more service users did not attend their appointment with Other Practice staff.  
+GPs data skewed the boxplot.
+Excluding GP services allowed you to see across all services the spread of data was above the mean. 
